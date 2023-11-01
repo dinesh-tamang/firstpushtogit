@@ -1,0 +1,9 @@
+to get the full name from user we use
+
+getline(cin,fullname)
+
+if we have to add something in the entered name we can use
+
+name.append("@gmail.com")
+
+

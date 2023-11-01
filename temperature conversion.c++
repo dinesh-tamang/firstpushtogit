@@ -50,5 +50,3 @@ int main()
 
 
 
-
-//simanta baula ho malai confusion pardyo baulale
